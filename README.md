@@ -21,7 +21,7 @@ Familiarize ourselves with Pipelines, grid search and text mining.
 ### Level 2
 
 - Exercise 1: 
-  - Remove stopwords and stemming your dataset..
+  - Remove stopwords and stemming your dataset.
 
 ### Level 3
 
